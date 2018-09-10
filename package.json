@@ -2,6 +2,7 @@
   "name": "wheretoteachmn",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@types/markerclustererplus": "^2.1.33",
     "@types/react": "^16.4.13",

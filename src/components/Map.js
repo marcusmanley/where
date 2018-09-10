@@ -23,7 +23,7 @@ class Map extends Component {
    )((props) =>
      <GoogleMap
        defaultZoom={7}
-       defaultCenter={{ lat: 44.985291, lng: -93.272175 }}
+       defaultCenter={{ lat: 46.7296, lng: -94.6859 }}
      >
        {props.isMarkerShown && <Marker position={{ lat: 44.985291, lng: -93.272175 }} />}
        <FusionTablesLayer
